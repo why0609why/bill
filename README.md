@@ -1,0 +1,2 @@
+# bill
+一个SpringBoot的Restful风格的前后端半分离的项目，数据访问层使用Mybatis，视图渲染使用Thymeleaf，支持模糊搜索，条件搜索
