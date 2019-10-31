@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mengxuegu.springboot.SpringBoot05BillApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.205 s - in com.mengxuegu.springboot.SpringBoot05BillApplicationTests
